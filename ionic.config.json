@@ -1,8 +1,0 @@
-{
-  "name": "onit",
-  "app_id": "aed06df8",
-  "type": "ionic-angular",
-  "integrations": {
-    "cordova": {}
-  }
-}
